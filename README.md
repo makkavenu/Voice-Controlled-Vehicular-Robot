@@ -1,0 +1,2 @@
+# Voice-Controlled-Vehicular-Robot
+- We have built a vehicular robot which takes commands from the instructor through Google Assistant, works accordingly. It performs all the functions that a basic automobile does. It detects the destination based on color, for this we have used a couple of color sensors, Each destination has its color which differs from the other. Whenever a destination is called the robot moves towards the destination and stops when it detects the color.
